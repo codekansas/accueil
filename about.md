@@ -7,7 +7,7 @@ title: About
   On ne change pas une équipe qui gagne.
 </p>
 
-Hi! We're Chi and Ben. Chi is a medical student and Ben is a software engineer.
+Hi! We're Chi and Ben. Chi is a medical student, and Ben is a software engineer.
 
 ## Setup
 
