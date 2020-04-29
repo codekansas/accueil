@@ -24,3 +24,11 @@ layout: default
         {% endfor %}
     </ul>
 </div>
+
+{% capture page_id %}{{ page.url | remove: '-' | remove: '/' }}{% endcapture %}
+<script>
+  fbq('track', 'ViewContent', {
+    content_name: '{{ page.title }}',
+    content_ids: ['{{ page_id }}']
+  });
+</script>
