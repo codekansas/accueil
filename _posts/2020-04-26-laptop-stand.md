@@ -12,13 +12,13 @@ This is obviously sarcastic. Both Chi and I have been extremely fortunate to be 
 
 Tragically, however, the keyboard doesn't leave a whole lot of desk space. Enter the 3D printer. Inspired by the Nintendo Switch stand, I wanted something to store my laptop upright, so that I could just plug it into my monitor. There's this little 2FA USB fob thing on the side that I needed to keep available too. I got the laptop dimensions from Apple's website, and Chi and I whipped out OpenSCAD and went about designing the holder (as in one of our [previous posts][prev-post], a non-negligible amount of the designing process took place while watching a movie with Chi's sister, although in this case it was a zombie movie which we actually thought was terrifying).
 
-The final design was actually quite a bit more complicated than I thought it would be. When she was living in London, Chi did a course on castles, and was adament about including buttresses, hence the unfortunately-named `butwid` and `butfact` variables.
+The final design was actually quite a bit more complicated than I thought it would be. During college, Chi did a course on history and architecture of cathedrals and was adament about including buttresses, hence the unfortunately-named `butwid` and `butfact` variables.
 
 {% gist 75f3d8e1c1dd6aee6d30de147ebb364c %}
 
 Here's the final STL, using the parameters from the above code. It's parameteric so if you want to make one yourself, you can mess with the variables at the top.
 
-<iframe id="vs_iframe" src="https://www.viewstl.com/?embedded&url=http%3A%2F%2Fle.bolte.page%2Fpublic%2Fstls%2Fdishwasher.stl"></iframe>
+<iframe id="vs_iframe" src="https://www.viewstl.com/?embedded&url=http%3A%2F%2Fle.bolte.page%2Fpublic%2Fstls%2Flaptop.stl"></iframe>
 
 We used the same [nGen Colorfabb][ngen-colorfabb] filament from the [dishwasher][prev-post] build. This might not have been such a good idea, since we didn't really need it to be dishwasher safe or anything, and the nGen filament seems to be a bit more prone to leaving strands behind and clumping up aroudn the main verticals than the PLA is (although this might have just been the design - we don't have enough experience printing stuff yet, I think).
 
