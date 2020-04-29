@@ -12,7 +12,7 @@ This is obviously sarcastic. Both Chi and I have been extremely fortunate to be 
 
 Tragically, however, the keyboard doesn't leave a whole lot of desk space. Enter the 3D printer. Inspired by the Nintendo Switch stand, I wanted something to store my laptop upright, so that I could just plug it into my monitor. There's this little 2FA USB fob thing on the side that I needed to keep available too. I got the laptop dimensions from Apple's website, and Chi and I whipped out OpenSCAD and went about designing the holder (as in one of our [previous posts][prev-post], a non-negligible amount of the designing process took place while watching a movie with Chi's sister, although in this case it was a zombie movie which we actually thought was terrifying).
 
-The final design was actually quite a bit more complicated than I thought it would be. During college, Chi did a course on history and architecture of cathedrals and was adament about including buttresses, hence the unfortunately-named `butwid` and `butfact` variables.
+The final design was actually quite a bit more complicated than I thought it would be. During college, Chi did a course on architecture of cathedrals and was adamant about including buttresses, hence the unfortunately-named `butwid` and `butfact` variables.
 
 {% gist 75f3d8e1c1dd6aee6d30de147ebb364c %}
 
