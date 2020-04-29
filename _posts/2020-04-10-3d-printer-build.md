@@ -34,7 +34,7 @@ Our first successful print was a small plaque using [glow in the dark PLA](https
 
 ![Plaque](/public/pics/2020-04-10-3d-printer-build/plaque.jpg)
 
-Our first larger print was a [Bulbasaur planter](https://www.thingiverse.com/thing:381599) that we saw on Thingiverse, which hosts an extensive collection of others' STL files. One of ur air plants that was generously gifted by Julia (my sister) now found a wonderful home in a cute planter on Ben's desk. As we started to experiment with different filament, we also printed a second one using [Wood PLA](https://www.amazon.com/Filament-TECBEARS-Consumables-Dimensional-No-Tangle/dp/B08181LJLD/ref=sr_1_4?dchild=1&keywords=wood+pla&qid=1588109129&sr=8-4) for another air plant. 
+Our first larger print was a [Bulbasaur planter](https://www.thingiverse.com/thing:381599) that we saw on Thingiverse, which hosts an extensive collection of others' STL files. One of our air plants that was generously gifted by Julia (my sister) now found a wonderful home in a cute planter on Ben's desk. As we started to experiment with different filament, we also printed a second one using [Wood PLA](https://www.amazon.com/Filament-TECBEARS-Consumables-Dimensional-No-Tangle/dp/B08181LJLD/ref=sr_1_4?dchild=1&keywords=wood+pla&qid=1588109129&sr=8-4) for another air plant. 
 
 <iframe id="vs_iframe" src="https://www.viewstl.com/?embedded&url=http%3A%2F%2Fle.bolte.page%2Fpublic%2Fstls%2Fbulbasaur.stl"></iframe>
 
