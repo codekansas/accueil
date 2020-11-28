@@ -16,9 +16,14 @@ html {
     transform: translate(-50%, -50%);  
 }
 
+img {
+  width: 640px;
+  height: 454px;
+}
+
 #greeting-container {
-    width: 500px;
-    height: 567px;
+  width: 640px;
+  height: 454px;
 }
 
 #greeting {
@@ -35,8 +40,8 @@ html {
 
 .card {
   display: block;
-  width: 500px;
-  height: 567px;
+  width: 640px;
+  height: 454px;
   position: relative;
   -webkit-perspective: 700;
   margin: 30px auto;
